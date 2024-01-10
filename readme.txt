@@ -1,4 +1,4 @@
-Free Download Source Code "Real Estate Portal System "
+"Real Estate Portal System "
 
 FIRST Download
 
@@ -29,7 +29,7 @@ password: admin123
 ----------------------------------------------------
 
 
-***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT me *****  
 
 ***** LEAVE A COMMENT IF YOU LOVED OUR WORK  AND SUBSCRIBE OUR CHANNEL *****
 
